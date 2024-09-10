@@ -27,17 +27,42 @@ Throughout the project, I applied my attention to detail and problem-solving ski
   
   Explored the geographical distribution of sales across states and cities, helping identify regions for growth and targeted outreach.
 
-### Key Insights and Recommendations
+### Key Insights 
 
-- **Sales Performance Trends:** Provided data-backed insights into sales peaks and troughs, enabling the business to align its strategies with customer demand cycles.
+- **Sales Performance Trends:**
+  - In April, the dataset reveals the highest number of orders, indicating a peak in customer activity.
+  -  A significant decline in order volume is observed immediately after May.
+    
+- **Product Popularity:**
+  - T-shirts, shirts, and blazers are top selling categories.
+  - Watches and shoes had fewest sales
 
-- **Product Popularity:** Highlighted top-selling product categories and sizes, offering suggestions on optimizing inventory to meet customer preferences.
+- **Fulfillment Method Efficiency:**
+  - Amazon fulfils more orders and generates more revenue than Merchant.
 
-- **Fulfillment Method Efficiency:** Identified which fulfillment methods had the highest success rates, leading to recommendations for improving logistics.
+- **Customer Segmentation:**
+  - Maharashtra shows highest order frequency with multiple high-value customers.
+  - Many customers show consistent spending pattern, with order amounts ranging between Rs 3K to Rs 7K.
+  - Customers placing the highest number of orders (e.g., 11 to 12 orders) are consistently generating high revenue.
 
-- **Customer Segmentation:** Segmentation based on location and buying patterns led to tailored marketing strategies for key customer groups.
+- **Geographical Sales Distribution:**
+  - Maharashtra and Karnataka have larger sales.
+  - Bengaluru and Hyderabad have much bigger sales.
 
-- **Geographical Sales Distribution:** Mapped sales across regions to reveal opportunities for geographic expansion and more efficient distribution.
+- **Order Status Analysis:**
+  - The vast majority of orders are successfully delivered.
+  - A large proportion of purchases are cancelled or returned, suggesting a problem with product quality or consumer expectations.
+
+### Recommendations
+
+1.	Implement targeted promotions during high-sales periods (e.g., April and May) to capitalize on the sales spike.
+2.	To keep loyal consumers, provide loyalty programs to frequent purchases.
+3.	Ensure that top-selling categories such as T-shirts and shirts have enough supply levels to fulfil demand.
+4.	Stock more of the popular sizes. Consider offering special specials on less popular sizes to help balance inventories.
+5.	Analyse and fix issues in underperforming categories such as watches and shoes.
+6.	Investigate the causes of high cancellation and return rates to increase customer satisfaction.
+7.	Continue to use Amazon's fulfilment efficiency while looking for methods to increase Merchant fulfilment.
+8.	Optimize stock levels based on geographical sales data to meet regional demand efficiently.
 
 ### Deliverables
 
