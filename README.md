@@ -66,7 +66,7 @@ Throughout the project, I applied my attention to detail and problem-solving ski
 
 ### Deliverables
 
-- A comprehensive analysis report summarizing the findings and recommendations.
+- A comprehensive analysis report [AMAZON SALES REPORT.docx](https://github.com/user-attachments/files/16946859/AMAZON.SALES.REPORT.docx) summarizing the findings and recommendations.
 - Data visualizations (charts and graphs) that illustrate key insights across sales, fulfillment, and customer behavior.
 - Actionable recommendations on improving sales strategies, inventory management, and customer experience.
 
